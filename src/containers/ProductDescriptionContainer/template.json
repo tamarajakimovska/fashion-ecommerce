@@ -1,0 +1,20 @@
+{
+    "images": [
+      ""
+    ],
+    "name": "",
+    "price": 0,
+    "description": "",
+    "reviews": [
+      {
+        "name": "Max",
+        "date": "2021-02-03",
+        "description": "very stylish. I will buy it."
+      },
+      {
+        "name": "Stephanie",
+        "date": "2022-09-03",
+        "description": "Very beautiful."
+      }
+    ]
+  }

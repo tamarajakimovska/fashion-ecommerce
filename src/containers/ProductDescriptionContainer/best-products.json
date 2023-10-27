@@ -1,0 +1,630 @@
+[
+  {
+    "id": "d4260a3d-c661-44cf-99b3-59faa965cb6f",
+    "images": [
+      "https://imageupload.io/ib/CQoES8Vx2mmGB7W_1695835598.jpeg",
+      "https://imageupload.io/ib/cMJKxEPPyydUSa6_1695835625.jpeg",
+      "https://imageupload.io/ib/oFOcvRb2sTHTETl_1695835654.jpeg"
+    ],
+    "name": "Khloe Skirt",
+    "price": 19.99,
+    "description": "An iconic staple to have in your wardrobe, a trench coat elevates everything. The Charlotte Trench is a Superette exclusive that will go with so much. This one will look so effortlessly chic when worn relaxed and super cool if worn belted!",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "Janne",
+        "date": "2022-06-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Stephanie",
+        "date": "2022-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "acc4ec30-c3d0-4c5d-92a8-f01df2b6c2c4",
+    "images": [
+      "https://imageupload.io/ib/2ZNgECe8u5glnOD_1695833508.jpeg",
+      "https://imageupload.io/ib/HyddAhgtNZHmB2i_1695833550.jpeg",
+      "https://imageupload.io/ib/4AyaJoVIHydLiVj_1695833587.jpeg"
+    ],
+    "name": "Wool Anchorage Shirt",
+    "price": 79.99,
+    "description": "Your classic shirt has been given a relaxed update! Taking you from summer to winter, the Hampton Linen Shirt from The Academy Brand is 100% linen. Extremely breathable and the perfect shade for any occasion, it will have you looking super slick with some dark blue denim jeans and boots during winter or alternatively with style with some shorts and sneakers when the weather is a bit warmer.",
+"type": "best_seller",
+    "reviews": [
+      {
+        "name": "Max",
+        "date": "2021-02-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Stephanie",
+        "date": "2022-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  }, 
+  {
+    "id": "19ed892c-4453-488e-9693-0be9aa2e5354",
+    "images": [
+      "https://imageupload.io/ib/0ISKibEaOkfCyK3_1695833914.jpeg",
+      "https://imageupload.io/ib/qG7dWvR1i0WJ1Mw_1695833957.jpeg",
+      "https://imageupload.io/ib/AynhW9JXiCL6SU2_1695833996.jpeg"
+    ],
+    "name": "Nirvana Skirt",
+    "price": 139.00,
+    "description": "Slip into something a bit more elegant with the Raven Bias Skirt, exclusively from Superette. This slinky maxi skirt features a subtle pattern and a gathering at the waist to create an alluring look.",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "Anna",
+        "date": "2019-03-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Clara",
+        "date": "2022-01-11",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "29708ba3-dae1-44ff-8c21-298015b656e6",
+    "images": [
+      "https://imageupload.io/ib/uk3DQ2ftopnQNCf_1695834181.jpeg",
+      "https://imageupload.io/ib/zJfy6NblCzRZ44X_1695834217.jpeg",
+      "https://imageupload.io/ib/0RRY6FYY2xmCDbW_1695834242.jpeg"
+    ],
+    "name": "Rose Biggie L/S Tee",
+    "price": 59.99,
+    "description": "Minimal, classic and timeless",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "John",
+        "date": "2021-04-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Ryle",
+        "date": "2023-02-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "d05e6a15-dce0-4983-ac6a-10130b9a1a0c",
+    "images": [
+      "https://imageupload.io/ib/eEn5aKOM0i32pUk_1695834422.jpeg",
+      "https://imageupload.io/ib/OcKVNbrsoQj5UfT_1695834448.jpeg",
+      "https://imageupload.io/ib/HsSx0J1T2yjg6HX_1695834480.jpeg"
+    ],
+    "name": "Classic Jacket",
+    "price": 189.99,
+    "description": "100% Cotton",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "Dario",
+        "date": "2021-02-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Marc",
+        "date": "2019-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "ff61b985-ce71-44fc-bc5a-89fe73883bdd",
+    "images": [
+      "https://imageupload.io/ib/0u1CqINyvbkJYFb_1695834652.jpeg",
+      "https://imageupload.io/ib/y6QfVsaem1Vj4j8_1695834689.jpeg",
+      "https://imageupload.io/ib/gldriTEs21e7iV6_1695834722.jpeg"
+    ],
+    "name": "Tyler Pant"
+,
+    "price": 69.99,
+    "description": "Dive into soft-tailoring starting with the Tyler Pant exclusively from Superette. A trans-seasonal piece to take you to varied occasions, these pants have your back. With a wide leg, relaxed fit and pleat detailing, they’ve got everything required to feel chic and put together.",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "Lara",
+        "date": "2021-08-13",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Nicole",
+        "date": "2022-09-23",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "bcd22ea2-3602-4f64-9eed-b8226ef71d6b",
+    "images": [
+      "https://imageupload.io/ib/bnyW1G9EYDzTqu0_1695834891.jpeg",
+      "https://imageupload.io/ib/Fp1qHY2OUg5CYC2_1695834920.jpeg",
+      "https://imageupload.io/ib/dTtlCsQP2jWffbX_1695834946.jpeg"
+    ],
+    "name": "Denim Longline Skirt",
+    "price": 249.99,
+    "description": "Trans-seasonal gorgeousness that you can wear throughout the year, the Iowa Dress is an elegant style we hope you love as much as we do! With long sleeves and a maxi silhouette, this one is a timeless and endlessly fresh number.",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "Jana",
+        "date": "2023-05-05",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Christina",
+        "date": "2022-04-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "10c9abe3-cbd5-4682-8873-a5be44132fc2",
+    "images": [
+      "https://imageupload.io/ib/RT4n1VdnATXfSn2_1695835086.jpeg",
+      "https://imageupload.io/ib/LWe8jzuGs8o85ev_1695835113.jpeg",
+      "https://imageupload.io/ib/qIWHYBtkCSls8I1_1695835135.jpeg"
+    ],
+    "name": "Flanagan Flannel Shirt",
+    "price": 119.99,
+    "description": "100% Cotton, Made in USA",
+    "type": "best_seller",
+    "reviews": [
+      {
+        "name": "David",
+        "date": "2021-01-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "George",
+        "date": "2023-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "5b104bc5-f403-44bb-8122-346c614280f1",
+    "images": [
+      "https://imageupload.io/ib/kA2hqWRNrCfg8iO_1695975113.jpeg",
+      "https://imageupload.io/ib/02X9C8Pty8cvKnr_1695975055.jpeg",
+      "https://imageupload.io/ib/UUSoIgxohqrjZUu_1695975189.jpeg"
+    ],
+    "name": "Milking It Onesie",
+    "price": 24.99,
+    "description": "Let your little one look and feel good in the Little Snapper Stamp Trackpants. A staple for them, these are so comfy and easy with a pull-on design and adjustable drawcord waist. Super cute in a navy colourway and finished with JAF details.",
+    "type": "new",
+    "reviews": [
+      {
+        "name": "Jana",
+        "date": "2023-05-05",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Christina",
+        "date": "2022-04-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "7c468157-2f3d-4b0c-9f29-6c171b9c265d",
+      "images": [
+      "https://imageupload.io/ib/yPvrVZthf0VQlEn_1695975793.jpeg",
+      "https://imageupload.io/ib/aT2z36CwHhWtBtW_1695975824.jpeg",
+      "https://imageupload.io/ib/4mTmQUbF7LfCaD7_1695975851.jpeg"
+      ],
+      "name": "Hampton Linen Shirt",
+      "price": 49.99 ,
+      "description": "Made from mid-weight nylon that’s both water-resistant and versatile, the MA1 Slim Fit Flight Jacket was the first military flight jacket to cross over into the must-have realm of fashion. Featuring knit cuffs collar and waistband as well as a storm flap for warmth, this bomber will fit effortlessly into your current wardrobe.",
+      "type": "new" ,
+      "reviews": [
+          {
+              "name": "Alex" ,
+              "date": "2022-04-07" ,
+              "comment": "very cozy. I will buy it.",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        },
+          {
+              "name": "Mike" ,
+              "date": "2020-02-06",
+              "comment": "Very cool",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        }
+      ]
+      },
+      {
+        "id": "7935fa09-b57e-45eb-b0a1-bc82c15ba0f3",
+      "images": [
+ "https://imageupload.io/ib/MH05lx1gc9J0OCP_1695975991.jpeg",
+ "https://imageupload.io/ib/4XzXDx2eeeTuZdU_1695976020.jpeg",
+ "https://imageupload.io/ib/WCsf4N5E2Cob2ay_1695976046.jpeg"
+      ],
+      "name": "Rigger Shacket",
+      "price": 149.99 ,
+      "description": "Your classic shirt has been given a relaxed update! Taking you from summer to winter, the Hampton Linen Shirt from The Academy Brand is 100% linen. Extremely breathable and the perfect shade for any occasion, it will have you looking super slick with some dark blue denim jeans and boots during winter or alternatively with style with some shorts and sneakers when the weather is a bit warmer." ,
+      "type": "new" ,
+      "reviews": [
+          {
+              "name": "Alex" ,
+              "date": "2022-04-07" ,
+              "comment": "very cozy. I will buy it.",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        },
+          {
+              "name": "Mike" ,
+              "date": "2020-02-06",
+              "comment": "Very cool",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        }
+      ]
+      },
+      {
+        "id": "93e6431b-b4f2-4d65-a291-64ec6262ec90",
+      "images": [
+"https://imageupload.io/ib/REBmufUi7OQQDd5_1695976227.jpeg",
+"https://imageupload.io/ib/5cApO7909cfzwSy_1695976261.jpeg",
+"https://imageupload.io/ib/REBmufUi7OQQDd5_1695976227.jpeg"
+      ],
+      "name": "Mott Quarter Zip",
+      "price": 89.00,
+      "description": "Designed in Italy",
+      "type": "new" ,
+      "reviews": [
+          {
+              "name": "Alex" ,
+              "date": "2022-04-07" ,
+              "comment": "very cozy. I will buy it.",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        },
+          {
+               "name": "Mike" ,
+              "date": "2020-02-06",
+              "comment": "Very cool",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        }
+      ]
+      },
+      {
+        "id": "d1ae8249-044c-4f58-8212-59258db10468",
+      "images": [
+     "https://imageupload.io/ib/lPnVlIloxk9ulTe_1695976527.jpeg",
+     "https://imageupload.io/ib/2Fx3MMOwBsHdVc2_1695976551.jpeg",
+     "https://imageupload.io/ib/9dJGYjOkx4dermx_1695976573.jpeg"
+      ],
+      "name": "Chemise en lin Coastal S/S",
+      "price": 67.99,
+      "description": "Made from mid-weight nylon that was both water-resistant and versatile, the MA1 Slim Fit Flight Jacket was the first military flight jacket to cross into the fashion must-have realm. Featuring knit cuffs, collar and waistband as well as a storm flap for warmth, this bomber jacket will fit effortlessly into your current wardrobe." ,
+      "type": "new" ,
+      "reviews": [
+          {
+             "name": "Alex" ,
+              "date": "2022-04-07" ,
+              "comment": "very cozy. I will buy it.",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        },
+          {
+               "name": "Mike" ,
+              "date": "2020-02-06",
+              "comment": "Very cool",
+              "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        }
+      ]
+      },
+      {
+        "id": "3d23668c-22bd-4b52-b7f4-ad1d692efe64",
+      "images": [
+"https://imageupload.io/ib/MrPd1o9Nu98SgsA_1695976654.jpeg",
+"https://imageupload.io/ib/5jWf6iiX2IevORK_1695976691.jpeg",
+"https://imageupload.io/ib/g2ok3NfIT6t7VN0_1695976711.jpeg"
+      ],
+      "name": "Cord Overalls",
+      "price": 29.99,
+      "description": "Get your little ones looking and feeling their best with the SLC Kids Crew 004! Joining the Leisure Club crew, this crewneck is a great place to start. In 100% organic cotton it’s easy to wear and is complete with the SLC logo on the front.",
+      "type": "new" ,
+      "reviews": [
+          {
+            "name": "Nicole",
+        "date": "2022-09-23",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        },
+          {
+             "name": "Stephanie",
+        "date": "2022-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+
+        }
+      ]
+      },
+      {
+        "id": "1f5521b9-d78c-471f-ad42-803f2edfd023",
+    "images": [
+      "https://imageupload.io/ib/CQoES8Vx2mmGB7W_1695835598.jpeg",
+      "https://imageupload.io/ib/cMJKxEPPyydUSa6_1695835625.jpeg",
+      "https://imageupload.io/ib/oFOcvRb2sTHTETl_1695835654.jpeg"
+    ],
+    "name": "Khloe Skirt",
+    "price": 19.99,
+    "description": "An iconic staple to have in your wardrobe, a trench coat elevates everything. The Charlotte Trench is a Superette exclusive that will go with so much. This one will look so effortlessly chic when worn relaxed and super cool if worn belted!",
+    "type": "new",
+    "reviews": [
+      {
+        "name": "Janne",
+        "date": "2022-06-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Stephanie",
+        "date": "2022-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+       {
+         "id": "f531de42-6ec9-4ca9-bef6-482e6792903d",
+    "images": [
+      "https://imageupload.io/ib/2ZNgECe8u5glnOD_1695833508.jpeg",
+      "https://imageupload.io/ib/HyddAhgtNZHmB2i_1695833550.jpeg",
+      "https://imageupload.io/ib/4AyaJoVIHydLiVj_1695833587.jpeg"
+    ],
+    "name": "Wool Anchorage Shirt",
+    "price": 79.99,
+    "description": "Your classic shirt has been given a relaxed update! Taking you from summer to winter, the Hampton Linen Shirt from The Academy Brand is 100% linen. Extremely breathable and the perfect shade for any occasion, it will have you looking super slick with some dark blue denim jeans and boots during winter or alternatively with style with some shorts and sneakers when the weather is a bit warmer.",
+"type": "new",
+    "reviews": [
+      {
+        "name": "Max",
+        "date": "2021-02-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Stephanie",
+        "date": "2022-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  }, 
+  {
+    "id": "e6947e5e-0785-4f00-a8ae-60cdebd92d74",
+    "images": [
+      "https://imageupload.io/ib/0ISKibEaOkfCyK3_1695833914.jpeg",
+      "https://imageupload.io/ib/qG7dWvR1i0WJ1Mw_1695833957.jpeg",
+      "https://imageupload.io/ib/AynhW9JXiCL6SU2_1695833996.jpeg"
+    ],
+    "name": "Nirvana Skirt",
+    "price": 139.99,
+    "description": "Slip into something a bit more elegant with the Raven Bias Skirt, exclusively from Superette. This slinky maxi skirt features a subtle pattern and a gathering at the waist to create an alluring look.",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "Anna",
+        "date": "2019-03-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Clara",
+        "date": "2022-01-11",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "afde8d31-1b81-4046-a374-1aa666ccb832",
+    "images": [
+      "https://imageupload.io/ib/uk3DQ2ftopnQNCf_1695834181.jpeg",
+      "https://imageupload.io/ib/zJfy6NblCzRZ44X_1695834217.jpeg",
+      "https://imageupload.io/ib/0RRY6FYY2xmCDbW_1695834242.jpeg"
+    ],
+    "name": "Rose Biggie L/S Tee",
+    "price": 59.99,
+    "description": "Minimal, classic and timeless",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "John",
+        "date": "2021-04-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Ryle",
+        "date": "2023-02-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "c461c1ba-d5e2-4964-b543-ce40d2b4d602",
+    "images": [
+      "https://imageupload.io/ib/eEn5aKOM0i32pUk_1695834422.jpeg",
+      "https://imageupload.io/ib/OcKVNbrsoQj5UfT_1695834448.jpeg",
+      "https://imageupload.io/ib/HsSx0J1T2yjg6HX_1695834480.jpeg"
+    ],
+    "name": "Classic Jacket",
+    "price": 189.99,
+    "description": "100% Cotton",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "Dario",
+        "date": "2021-02-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Marc",
+        "date": "2019-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "c9773d2b-12b5-48b1-b240-d38802dee0f7",
+    "images": [
+      "https://imageupload.io/ib/0u1CqINyvbkJYFb_1695834652.jpeg",
+      "https://imageupload.io/ib/y6QfVsaem1Vj4j8_1695834689.jpeg",
+      "https://imageupload.io/ib/gldriTEs21e7iV6_1695834722.jpeg"
+    ],
+    "name": "Tyler Pant"
+,
+    "price": 69.99,
+    "description": "Dive into soft-tailoring starting with the Tyler Pant exclusively from Superette. A trans-seasonal piece to take you to varied occasions, these pants have your back. With a wide leg, relaxed fit and pleat detailing, they’ve got everything required to feel chic and put together.",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "Lara",
+        "date": "2021-08-13",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Nicole",
+        "date": "2022-09-23",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "e629fe19-c28f-4d29-a729-2a78d68f7baf",
+    "images": [
+      "https://imageupload.io/ib/bnyW1G9EYDzTqu0_1695834891.jpeg",
+      "https://imageupload.io/ib/Fp1qHY2OUg5CYC2_1695834920.jpeg",
+      "https://imageupload.io/ib/dTtlCsQP2jWffbX_1695834946.jpeg"
+    ],
+    "name": "Denim Longline Skirt",
+    "price": 249.99,
+    "description": "Trans-seasonal gorgeousness that you can wear throughout the year, the Iowa Dress is an elegant style we hope you love as much as we do! With long sleeves and a maxi silhouette, this one is a timeless and endlessly fresh number.",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "Jana",
+        "date": "2023-05-05",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Christina",
+        "date": "2022-04-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "dc293274-831b-4b64-9571-1c0199d417a1",
+    "images": [
+      "https://imageupload.io/ib/RT4n1VdnATXfSn2_1695835086.jpeg",
+      "https://imageupload.io/ib/LWe8jzuGs8o85ev_1695835113.jpeg",
+      "https://imageupload.io/ib/qIWHYBtkCSls8I1_1695835135.jpeg"
+    ],
+    "name": "Flanagan Flannel Shirt",
+    "price": 119.99,
+    "description": "100% Cotton, Made in USA",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "David",
+        "date": "2021-01-03",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "George",
+        "date": "2023-09-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "d397d148-39db-402a-9107-ceff5c06eb8c",
+    "images": [
+      "https://imageupload.io/ib/kA2hqWRNrCfg8iO_1695975113.jpeg",
+      "https://imageupload.io/ib/02X9C8Pty8cvKnr_1695975055.jpeg",
+      "https://imageupload.io/ib/UUSoIgxohqrjZUu_1695975189.jpeg"
+    ],
+    "name": "Milking It Onesie",
+    "price": 24.99,
+    "description": "Let your little one look and feel good in the Little Snapper Stamp Trackpants. A staple for them, these are so comfy and easy with a pull-on design and adjustable drawcord waist. Super cute in a navy colourway and finished with JAF details.",
+    "type": "sales",
+    "reviews": [
+      {
+        "name": "Jana",
+        "date": "2023-05-05",
+        "comment": "very stylish. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      },
+      {
+        "name": "Christina",
+        "date": "2022-04-03",
+        "comment": "Very beautiful.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+      }
+    ]
+  },
+  {
+    "id": "d44053a1-126f-4368-9196-0e7481c05a74",
+      "images": [
+      "https://imageupload.io/ib/yPvrVZthf0VQlEn_1695975793.jpeg",
+      "https://imageupload.io/ib/aT2z36CwHhWtBtW_1695975824.jpeg",
+      "https://imageupload.io/ib/4mTmQUbF7LfCaD7_1695975851.jpeg"
+      ],
+      "name": "Hampton Linen Shirt",
+      "price": 49.99 ,
+      "description": "Made from mid-weight nylon that’s both water-resistant and versatile, the MA1 Slim Fit Flight Jacket was the first military flight jacket to cross over into the must-have realm of fashion. Featuring knit cuffs collar and waistband as well as a storm flap for warmth, this bomber will fit effortlessly into your current wardrobe.",
+      "type": "sales" ,
+      "reviews": [
+          {
+              "name": "Alex" ,
+              "date": "2022-04-07" ,
+              "comment": "very cozy. I will buy it.",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        },
+          {
+              "name": "Mike" ,
+              "date": "2020-02-06",
+              "comment": "Very cool",
+        "pictureLink": "https://secure.gravatar.com/avatar/04620edbd19a11cec3b304669c72a8b8?s=80&d=mm&r=g"
+        }
+      ]
+      }
+     
+]
